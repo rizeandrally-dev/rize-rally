@@ -36,7 +36,7 @@ export default function Profile() {
           style={{ padding: 24, paddingTop: 60, paddingBottom: 40, alignItems: 'center' }}
         >
           <Text style={{ color: 'white', fontSize: 24, fontWeight: 'bold' }}>
-            Mathieu D.
+            Mathéo R.
           </Text>
           <Text style={{ color: 'rgba(255,255,255,0.8)', marginTop: 4 }}>
             Squad : Team Nantes

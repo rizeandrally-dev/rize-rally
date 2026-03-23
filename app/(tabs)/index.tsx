@@ -96,7 +96,7 @@ export default function Dashboard() {
             RIZE & RALLY
           </Text>
           <Text style={{ color: 'white', fontSize: 28, fontWeight: 'bold', marginTop: 6 }}>
-            Bonjour, Mathieu
+            Bonjour, Mathéo
           </Text>
           <Text style={{ color: 'rgba(255,255,255,0.85)', fontSize: 15, marginTop: 6 }}>
             Streak {streak} jours - Continue comme ca !
