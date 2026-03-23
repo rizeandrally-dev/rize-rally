@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Expo Dev Server",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\rize-rally\\node_modules\\expo\\bin\\cli", "start", "--non-interactive"],
+      "port": 8081
+    },
+    {
+      "name": "Expo Android",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\rize-rally\\node_modules\\expo\\bin\\cli", "start", "--android", "--non-interactive"],
+      "port": 8081
+    },
+    {
+      "name": "Expo Web",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:\\rize-rally\\node_modules\\expo\\bin\\cli", "start", "--web", "--non-interactive"],
+      "port": 8081
+    }
+  ]
+}
